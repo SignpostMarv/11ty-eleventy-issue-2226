@@ -1,0 +1,3 @@
+[submodule "11ty/video-clip-notes"]
+	path = 11ty/video-clip-notes
+	url = https://github.com/Satisfactory-Clips-Archive/video-clip-notes.git
