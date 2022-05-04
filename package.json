@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy": "^2.0.0-canary.8",
     "lorem-ipsum": "^2.0.4",
     "uuid": "^8.3.2"
   }
